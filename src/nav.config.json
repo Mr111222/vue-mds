@@ -1,0 +1,45 @@
+{
+	"component": {
+		"name": "组件",
+		"path": "/component",
+		"groups": [
+			{
+				"name": "基础组件",
+				"list": [
+					{
+						"path": "/ng-button",
+						"title": "button按钮",
+						"child":{
+							"cpath":"/ng-button-shili",
+							"ctitle":"按钮实例"
+						}
+					},
+					{
+						"path": "/ng-form",
+						"title": "form",
+						"child":{
+							"cpath":"/ng-form-shili",
+							"ctitle":"form实例"
+						}
+					},
+					{
+						"path": "/ng-grid",
+						"title": "grid",
+						"child":{
+							"cpath":"/ng-grid-shili",
+							"ctitle":"grid实例"
+						}
+					},
+					{
+						"path": "/ng-input",
+						"title": "input",
+						"child":{
+							"cpath":"/ng-input-shili",
+							"ctitle":"input实例"
+						}
+					}
+				]
+			}
+		]
+	}
+}
