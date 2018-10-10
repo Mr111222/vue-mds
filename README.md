@@ -32,3 +32,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 node copy.js
 复制同级目录下的.md文件，放到指定的位置
 复制同级目录下的.vue示例文件，放到指定的位置
+重点看一下mock文件夹下的code.js
